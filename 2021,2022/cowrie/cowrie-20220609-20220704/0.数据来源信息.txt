@@ -1,0 +1,3 @@
+2022年蜜罐捕获数据
+论文：Containerized cloud-based honeypot deception for tracking attackers
+数据地址：https://vitapacin-my.sharepoint.com/personal/priya_21phd7042_vitap_ac_in/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fpriya%5F21phd7042%5Fvitap%5Fac%5Fin%2FDocuments%2FTPOT%5FRAWDATA%2Fcowrie
